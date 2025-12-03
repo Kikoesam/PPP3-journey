@@ -1,4 +1,6 @@
 ## 🎯 Notes
 - [x] ➔ try to find a group or communities
-- [x] ➔ Complete "Hello World"
+- [x] ➔ GitHub automation
+- [x] ➔ LinkedIn networking
+- [x] ➔ YouTube channel growth
 

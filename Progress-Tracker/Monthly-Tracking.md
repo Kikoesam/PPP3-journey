@@ -1,4 +1,4 @@
-# 📊 Daily Log - {{date}}
+# 📊 Monthly Log - {{4/12/2025}}-{{31/12/2025}}
 
 ## ⏰ Time Tracking
 - **Total Study Time:** [X] hours [Y] minutes
