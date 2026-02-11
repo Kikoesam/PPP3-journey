@@ -2,19 +2,8 @@
 
 ## ⏰ Time Tracking
 - **Total Study Time:** [X] hours [Y] minutes
-- **Start Time:** [HH:MM]
-- **End Time:** [HH:MM]
-- **Breakdown:**
-  - Reading: [X] min
-  - Coding: [X] min
-  - Debugging: [X] min
-  - Documentation: [X] min
-
-## 📚 What I Worked On
-- [ ] Chapter X: [Chapter Name]
-- [ ] Exercises: [X]/[Y] completed
-- [ ] Pages read: [XX-YY]
-
+- **Start Date:** [10/2/2026]
+ 
 ## 🎯 Goals for Today
 - [ ] [Goal 1]
 - [ ] [Goal 2]

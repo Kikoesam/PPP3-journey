@@ -5,5 +5,6 @@
 
 - ## You must run before you can walk!
 
+- ## computers are really dumb.
 
-
+- ## Fortune favors the prepared mind. – Louis Pasteur
